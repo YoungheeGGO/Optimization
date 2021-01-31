@@ -10,15 +10,15 @@
 
 ## 목차
 1. Introduction
-2. 도함수(), 경사도
-3. 구간분할법 ()
-4. 구간 분할법과 경사법
+2. 도함수(Derivate), 경사도(Gradient)
+3. 구간분할법 (Bracketing)
+4. 구간 분할법과 경사법(Local Descent)
 5. 경사법
 6. 경사법2
 7. sympy 라이브러리를 활용한 실습
 8. 일차 미분 이용한 방법들
-9&10. 경사하강법
+9,10. 경사하강법 (Gradient Descent)
 11. 이차미분 근사법
-12. 확률적인 방법들
-13. 유전자 알고리즘
+12. 확률적인 방법들 (Stochastic Methods)
+13. 유전자 알고리즘 (Genetic Algorithm)
 14. Surrogate Models
