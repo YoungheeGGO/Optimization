@@ -1,8 +1,12 @@
 # Algorithms for Optimization
 
-- Algorithms for Optimization (Mykel J.Kochenderfer and Tim A.Wheeler) 교재를 기반으로 한 2020년도 경기대학교 최현집 교수님의 "최적화 방법 및 실습" 강의 정리본
+- 2020년도 경기대학교 최현집 교수님의 "최적화 방법 및 실습" 강의 정리본
+    - Algorithms for Optimization (Mykel J.Kochenderfer and Tim A.Wheeler) 교재 기반 개념정리
 
-- 중요한 
+- 최적화에 관한 기초적인 내용
+    - 피상적으로만 이해해서 나중에 더 깊게 이해할 필요 있음.
+
+
 
 ## 목차
 1. Introduction
