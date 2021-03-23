@@ -39,5 +39,3 @@
 13. 유전자 알고리즘 (Genetic Algorithm)
 14. Surrogate Models
 
-
-#### 코드도 정리해서 커밋하면 더 좋겠다...!! 코드 정리해야겠네~!!
