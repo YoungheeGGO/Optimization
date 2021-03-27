@@ -4,6 +4,7 @@
     - Algorithms for Optimization (Mykel J.Kochenderfer and Tim A.Wheeler) 교재 기반
 
 - 최적화에 관한 기초적인 내용
+    - 나름 열심히 들었지만 어려웠다.
     - 피상적으로만 이해해서 나중에 더 깊게 이해할 필요 있음.
 
 ## 수업에서 느낀 점
