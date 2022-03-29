@@ -18,7 +18,7 @@
     - I implemented optimization using just one line code with `tf.keras.optimizers.Adam` 
     - But In this lecture, I learned a developed process and many formulas for Adam. Simple code doesn't mean that the theory is simple. So, I thought I have to study both code and statistical theories.
     - It is important not only implementing code using packages, but also knowing what the code does.
-        - Let's implement "code" based on "understanding"     
+        - Let's "implement" code based on "understanding"     
  
 
 ## Contents
