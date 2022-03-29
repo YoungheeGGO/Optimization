@@ -1,6 +1,6 @@
 # Algorithms for Optimization
 
-- Optimization Methods and Practices lecture in Kyonggi University (2020.2nd semester)
+- Optimization Methods and Practices lecture in Kyonggi University (Fall Semester, 2020)
     - Textbook : Algorithms for Optimization (Mykel J.Kochenderfer and Tim A.Wheeler)
    
    
